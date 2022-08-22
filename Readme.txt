@@ -1,0 +1,1 @@
+To test MOMSOA with test functions, use the test.m file. To use the EWT-MOMSOA-MKELM model to predict wind speed, use the main.m file.
